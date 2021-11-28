@@ -1,0 +1,44 @@
+header
+{
+  border-bottom : 1px solid gray;
+  padding : 5px;
+}
+body
+{
+  margin : 10px;
+}
+ul
+{
+  list-style : none;
+  padding-left : 0px;
+}
+li
+{
+  padding : 5px;
+}
+th
+{
+  border-top: 3px solid gray;
+  border-bottom: 3px solid gray;
+}
+td
+{
+  border-bottom: 1px solid gray;
+}
+#Section
+{
+  padding : 10px;
+  border-bottom: 2px dotted gray;
+}
+#Post_Number
+{
+  width : 100px;
+}
+#Post_Author
+{
+  width : 100px;
+}
+#Post_Title
+{
+  width : 500px;
+}
